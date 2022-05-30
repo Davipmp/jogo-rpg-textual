@@ -192,7 +192,7 @@ public class olegadodoRei2 {
                 }
                 if (resposta == 2) {
                     System.out.println("Você chegou ao fim do jogo, Parabéns! Seus tesouros adquiridos foram"
-                            + " " + recordedeTesouros);
+                            + " " + recordedeTesouros + ".");
                 }
                 return;
             case 2:

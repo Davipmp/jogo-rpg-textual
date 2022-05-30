@@ -116,7 +116,7 @@ public class olegadodoRei2 {
             //menu 
             System.out.println("");
             System.out.println("Escolha as opções a baixo. ");
-            System.out.println("1 - Iniciar o jogo!");
+            System.out.println("1 - Iniciar o jogo");
             System.out.println("2 - Créditos ");
             System.out.println("3 - sair do jogo");
             System.out.println("Opcao escolhida: ");

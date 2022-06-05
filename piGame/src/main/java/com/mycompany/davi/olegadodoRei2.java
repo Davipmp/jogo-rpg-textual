@@ -27,7 +27,7 @@ public class olegadodoRei2 {
         System.out.println(" ******* BATALHA ****** ");
         System.out.println(" - HP do Jogador: " + hpJogador);
         System.out.println(" - HP computador: " + hpComputador);
-        System.out.println(" - Poder especial " + contagemEspeciais);
+        System.out.println(" - Poder especial: " + contagemEspeciais);
         System.out.println(" ******* BATALHA ******");
 
     }
